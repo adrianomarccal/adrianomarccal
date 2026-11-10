@@ -1,3 +1,4 @@
+<img src="banner.png" alt="Adriano Salviano Marçal - Redes, Segurança e Python" width="100%">
 <div align="center">
 
 # Adriano Salviano Marçal
