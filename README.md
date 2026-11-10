@@ -4,7 +4,7 @@
 
 **Redes de Computadores • Segurança da Informação • Automação com Python**
 
-Técnico em Redes de Computadores (SENAI Roberto Simonsen) e graduando em Ciência da Computação (Unicid).
+Técnico em Redes de Computadores e graduando em Ciência da Computação.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://lnkd.in/p/dAVQeBFN)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adrianomarccal)
